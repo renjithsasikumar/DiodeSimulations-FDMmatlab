@@ -1,0 +1,4 @@
+## Please use vrsion 1 for Equilibrium simulation
+## Please Use Version 2 if want to solve both equilibriumand non equilibrium 
+Both vesrsions are available in driftdiffussionv2.m
+## simple not on dicretization is also provided
