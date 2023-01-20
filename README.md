@@ -1,1 +1,1 @@
-# DiodeSimulations-FEMmatlab
+# DiodeSimulations-FDMmatlab
